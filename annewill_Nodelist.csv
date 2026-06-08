@@ -1,9 +1,9 @@
 id,name,party,sector,country,type
 lk,Lars Klingbeil,SPD,Politik,Deutschland,Person
-500,Folge 500,NA,NA,NA
-501,Folge 501,NA,NA,NA
-502,Folge 502,NA,NA,NA
-503,Folge 503,NA,NA,NA
+500,Folge 500,NA,NA,NA,Folge
+501,Folge 501,NA,NA,NA,Folge
+502,Folge 502,NA,NA,NA,Folge
+503,Folge 503,NA,NA,NA,Folge
 uvdl,Ursula von der Leyen,CDU,Politik,Deutschland,Person
 nr,Norbert Röttgen,CDU,Politk,Deutschland,Person
 sw,Sahra Wagenknecht,Linke,Politk,Deutschland,Person
